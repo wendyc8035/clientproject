@@ -1,3 +1,21 @@
 h1 {
-  color: fuchsia;
+    text-align: center;
+}
+
+#cart {
+    display: flex;
+    justify-content: center;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+
+}
+
+
+}
+#songs{ display: flex;
+    flex-direction:column;
+    justify-content: center;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+
 }
